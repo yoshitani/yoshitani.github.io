@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/yoshitani/yoshitani.github.io
+	branch = master
